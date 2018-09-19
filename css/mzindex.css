@@ -1,0 +1,14 @@
+#yonghulist li:hover{background-color: #e4f8f7;cursor: default;}
+.container{width: 100%;margin-left: auto;margin-right: auto;}
+.main{float: left;width: 100%;min-height: 50px;}
+.col-main306{margin-left: 316px;background-color: #fff;}
+.col-sub306{float: left;width: 306px;background-color: #fff;margin-left: -100%;}
+.col-main120{margin-left: 140px;background-color: #fff;}
+.col-sub120{float: left;width: 120px;background-color: #fff;margin-left: -100%;}
+#searchin{background: url(/images/search.png) no-repeat 5px center;}
+.active{color: #23d4ca;background-color: #e4f8f7;}
+.active span{color: #23d4ca;}
+.fuwu{background: url(/images/fuwu.png) no-repeat;background-size: 100% 100%;}
+.fuwuactive{background: url(/images/fuwuactive.png) no-repeat;background-size: 100% 100%;color: #23d4ca;}
+#yuyuebtn{background: url(/images/lijiyuyue.png) no-repeat;background-size: 100% 100%;}
+.jgxxbox{display: none;}
